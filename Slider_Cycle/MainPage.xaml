@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Slider_Cycle.MainPage">
+    <Grid VerticalOptions="End" HeightRequest="100" Padding="15,20,15,5">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="28"/>
+        </Grid.RowDefinitions>
+        <Slider Grid.Row="0"  />
+
+        <!--Have some controls in row 1-->
+    </Grid>
+</ContentPage>

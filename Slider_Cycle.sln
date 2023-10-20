@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slider_Cycle", "Slider_Cycle\Slider_Cycle.csproj", "{D0EC0B81-2873-4B20-8836-7EA28EB1BF91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0EC0B81-2873-4B20-8836-7EA28EB1BF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EC0B81-2873-4B20-8836-7EA28EB1BF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0EC0B81-2873-4B20-8836-7EA28EB1BF91}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D0EC0B81-2873-4B20-8836-7EA28EB1BF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EC0B81-2873-4B20-8836-7EA28EB1BF91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0EC0B81-2873-4B20-8836-7EA28EB1BF91}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6156D5BB-B5E6-4D5D-B269-5E99D76D52A7}
+	EndGlobalSection
+EndGlobal
